@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Instructor-only files
+CE49X_Class_Spring_2026.xls
+email_service/
+Final Project/
+
+# Lecture PDFs and LaTeX source
+*.tex
+*.pdf
+
+# Non-notebook files in week directories
+Week*/load_displacement_curve.png
