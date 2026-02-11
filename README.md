@@ -55,7 +55,7 @@ Upon successful completion of this course, students will be able to:
 | 6 | **Machine Learning Introduction** — Supervised learning, model evaluation | `Week06_Machine_Learning_Introduction/` |
 | 7 | **Naive Bayes** — Probabilistic classification, text classification | `Week07_Naive_Bayes/` |
 | 8 | **Support Vector Machines** — SVM classification, kernel methods | `Week08_Support_Vector_Machines/` |
-| 9-12 | **Final Project** — Individual data science project with civil engineering focus | |
+| 9-12 | **Final Project** — Group data science project with civil engineering focus (max 3 members, topics TBD) | |
 
 ## Homework Policy
 
@@ -75,7 +75,7 @@ Upon successful completion of this course, students will be able to:
 ## Exam Policy
 
 - **Midterm:** In-class, computer-based
-- **Final Project:** Individual project (Weeks 9-12), must demonstrate integration of course concepts
+- **Final Project:** Group project (max 3 members, Weeks 9-12), topics TBD, must demonstrate integration of course concepts
 - One page (both sides) of handwritten notes allowed for midterm
 - No makeup exams except for documented emergencies
 
