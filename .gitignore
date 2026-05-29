@@ -22,3 +22,14 @@ Week*/load_displacement_curve.png
 
 # Manim render cache (keep final outputs only)
 **/media/videos/**/partial_movie_files/
+
+# LaTeX build artifacts (keep .tex and .pdf only)
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.synctex.gz
