@@ -1,6 +1,8 @@
 requests
-pandas
-numpy
+# numpy/pandas pinned to the 1.x/2.x line: the notebook relies on pandas 2.x
+# behaviour (string columns as object dtype) and libpysal/esda need numpy<2.
+numpy>=1.24,<2
+pandas>=2.0,<3
 matplotlib
 seaborn
 scipy
@@ -8,3 +10,8 @@ scikit-learn
 sqlalchemy
 psycopg2-binary
 jupyter
+# Spatial statistics (Moran's I, Getis-Ord Gi*) — Task: Spatial Significance
+libpysal
+esda
+# Interactive operator map
+folium
