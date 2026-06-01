@@ -1,4 +1,6 @@
 requests
+# Loads API keys from .env so secrets stay out of the notebook/repo
+python-dotenv
 # numpy/pandas pinned to the 1.x/2.x line: the notebook relies on pandas 2.x
 # behaviour (string columns as object dtype) and libpysal/esda need numpy<2.
 numpy>=1.24,<2
